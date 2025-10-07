@@ -1,3 +1,4 @@
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/qZAaOmzv)
 # HW2 - Tabular Methods
 
 ## What to do
@@ -48,3 +49,9 @@ You can do this by:
 
 Here are some resources that may be helpful:
 - A classic reference on writing code: [The Art of Readable Code (Boswell and Foucher, O'Reilly, 2012)](https://mcusoft.files.wordpress.com/2015/04/the-art-of-readable-code.pdf)
+
+## How to run
+1. Download the Git repo.
+2. First, create a Python virtual env: `python -m venv env`. Activate by doing `source env/bin/activate`.
+3. Next, navigate into the Git repo you downloaded. Ensure you have all the required libraries by doing `pip install -r requirements.txt`.
+4. To run the code, simply do `python run.py` in your CLI.
