@@ -49,3 +49,9 @@ You can do this by:
 
 Here are some resources that may be helpful:
 - A classic reference on writing code: [The Art of Readable Code (Boswell and Foucher, O'Reilly, 2012)](https://mcusoft.files.wordpress.com/2015/04/the-art-of-readable-code.pdf)
+
+## How to run
+1. Download the Git repo.
+2. First, create a Python virtual env: `python -m venv env`. Activate by doing `source env/bin/activate`.
+3. Next, navigate into the Git repo you downloaded. Ensure you have all the required libraries by doing `pip install -r requirements.txt`.
+4. To run the code, simply do `python run.py` in your CLI.
